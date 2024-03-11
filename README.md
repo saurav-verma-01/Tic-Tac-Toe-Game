@@ -1,0 +1,1 @@
+- We can still add HTML , directly on index html file if it is just a stateless component and does not have any logic
